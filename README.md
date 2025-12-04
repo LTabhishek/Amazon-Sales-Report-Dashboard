@@ -127,6 +127,7 @@ Understand logistics performance
 Support strategic business decisions# Amazon-Sales-Report-Dashboard
 
 📷 Dashboard Preview
+
 ![Amazon Sales Dashboard](https://github.com/LTabhishek/Amazon-Sales-Report-Dashboard/blob/main/Screenshot%20of%20Amazon%20Sales%20Report%20Dashboard.png)
 
 
